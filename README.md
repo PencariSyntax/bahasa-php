@@ -1,4 +1,4 @@
-# U+1F1EE PHP Bahasa
+# &U+1F1EE PHP Bahasa
 <p>Projekan Iseng, dimana saya mengubah beberapa syntax fungsi bawaan <a href="https://github.com/php/php-src">PHP</a> jadi menggunakan bahasa Indonesia</p>
 <p>Lalu saya tambahkan beberapa fungsi dari saya sendiri, seperti membuat paragraf.</p>
 
