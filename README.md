@@ -13,3 +13,5 @@
 2. Family
 3. Indonesia
 3. PHP Community
+
+# DISCLAIMER : Ingat ini bukan Bahasa pemrogramman tapi hanya sintaks pemrogramman dengan Bahasa Indonesia
